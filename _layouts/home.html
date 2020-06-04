@@ -1,0 +1,43 @@
+---
+layout: mainpage
+---
+
+{% if site.paginate %}
+  {% assign posts = paginator.posts %}
+{% else %}
+  {% assign posts = site.posts %}
+{% endif %}
+
+<ul class="list-unstyled m-0">
+  {% assign date_format = site.config.date_format | default: "%b %-d, %Y" %}
+  {% for post in posts %}
+    <li class="pt-1">
+	  <a class="mt-1 post-title" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+      <section class="post-meta mb-2">
+		<span>{{ post.date | date: date_format }}</span>
+      </section>
+
+      <div class="text-justify">
+        {{ post.excerpt }}
+      </div>
+    </li>
+  {% endfor %}
+</ul>
+
+{% if site.plugins contains "jekyll-feed" %}
+  <span class="text-secondary">Subscribe via <a href="/feed.xml">RSS</a></span>
+{% endif %}
+
+{% if site.paginate %}
+<nav class="py-1 text-center" aria-label="Blog page navigation">
+  {% if paginator.previous_page %}
+    <a class="btn btn-primary bg-dark" href="{{ paginator.previous_page_path | relative_url }}">&laquo; Previous</a>
+  {% endif %}
+
+  Page: {{ paginator.page }} of {{ paginator.total_pages }}
+
+  {% if paginator.next_page %}
+    <a class="btn btn-primary bg-dark" href="{{ paginator.next_page_path | relative_url }}">Next &raquo;</a>
+  {% endif %}
+</nav>
+{% endif %}

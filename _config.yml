@@ -1,0 +1,25 @@
+title: "Dani Pragustia's Blog"
+author: Dani Pragustia
+bio_description: "Clerk Typist Programmer, Messing around with something I find intresting."
+plugins:
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-redirect-from
+
+config:
+  date_format: "%-d %b %Y"
+  date_format_short: "%b %-d"
+
+header_pages:
+- hire.md
+- about.md
+- articles.md
+
+paginate: 5
+
+markdown: kramdown
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - lograth-jekyll.gemspec

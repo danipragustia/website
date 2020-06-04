@@ -1,0 +1,28 @@
+---
+layout: compress
+---
+<!DOCTYPE HTML>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+<head>
+
+  {% include head.html %}
+
+</head>
+<body>
+
+  <div class="container mb-3 mt-3">
+    <b class="mb-3">{{ site.title | escape }}</b>
+    <div class="row">
+	  <div class="col-sm-9">
+	    {{ content }}
+	  </div>
+	  <div class="col-sm-3">
+	    {% include bio.html %}
+	  </div>
+	</div>
+  </div>
+  
+  {% include footer.html %}
+
+</body>
+</html>
