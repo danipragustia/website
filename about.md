@@ -30,7 +30,7 @@ I using old computer from 2015, still good for my daily use. All Software i use 
 [Github](https://github.com/danipragustia)
 
 ### Contact
-My public key can find [here](https://dani.pw/pubkey.txt).
+My public key can find [here](https://dani.pw/pubkey.txt) [old backup](https://meta.sr.ht/~danipragustia.pgp).
 
 **If you have the old one, I dont use it anymore. This is the new one**
 
