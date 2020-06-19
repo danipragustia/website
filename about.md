@@ -26,12 +26,11 @@ I using old computer from 2015, still good for my daily use. All Software i use 
 - <b>1 TB HDD Seagate Barracuda</b>, i often fill up my HDD, highest using is only 30%~. I always transfer my data off-site to Flash Drive / External HDD, need upgrade to SSD for speed time and good R/W.
 
 ### Links
-[tewi.me](https://tewi.me) - some small service
 
 [Github](https://github.com/danipragustia)
 
 ### Contact
-My public key can find [here](https://0x4.me/pubkey.txt).
+My public key can find [here](https://dani.pw/pubkey.txt).
 
 **If you have the old one, I dont use it anymore. This is the new one**
 
