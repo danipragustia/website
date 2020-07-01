@@ -4,6 +4,18 @@ title: Donate
 permalink: /donate
 ---
 
+# Hire
+
+## Who I am
+I graduated from Senior High School as Software engineering stuff, I learn many various **web** programming languange back the days like PHP and Javascript.
+
+## Why choosing me?
+I simply would take costumers as 'person' and serve as 'family-friendly', contract can flexible and more convience way without any worries.
+I can make your dream website or web application as well, you got fully potential and control over your program. And the program output as **100% Open Source** so nothing hidden stuff!
+
+## How about price?
+Price depends how much spend time per day, I recognize myself as people have passion on making good software not as the fast one. So if the project was interest for me, I would give price more less or even free if possible.
+
 # Donate
 
 There many way you could contribute:
