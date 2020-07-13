@@ -16,3 +16,8 @@ body {
 	font-weight:bold;
 	font-size:1.5rem;
 }
+
+.language-plaintext {
+	background: #d0d0d0;
+	padding:0.5em 2em;
+}
