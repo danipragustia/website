@@ -13,7 +13,7 @@ This laptop nearly impossible to find on where province I was living, so other w
 Laptop came with pretty clean surface, maybe seller clean it before send over and port was clean and good. I didn't expect first place, It was came with P8400 processor, 2 GB RAM and 250 GB Western Digital Hard Drive.
 
 ## First look
-I little bit shock because it doesnt have pad on first, until my first encounter trackpoint whichk on middle on keyboard, it looks weird and dumb-way but after 5 minutes figure out how to use it. I finally know it this really convience to use on one hand and really good. I love it on first time and never intend to use external mouse on this laptop anymore.
+I little bit shock because it doesnt have pad on first, until my first encounter trackpoint which on middle on keyboard, it looks weird and dumb-way but after 5 minutes figure out how to use it. I finally know it this really convience to use on one hand and really good. I love it on first time and never intend to use external mouse on this laptop anymore.
 
 Its laptop so light and small, you can carry anywhere without worry. The body itself doesnt look fancy but more like professional stuff, And it very cheap if you looking good laptop for word processing or office work.
 
@@ -33,4 +33,5 @@ Been using it more than 2 weeks and that my personal experience using thinkpad x
 
 ## Source
 <https://vminko.org/gentoo_manuals/thinkpad_x200>
+
 <https://wiki.alpinelinux.org/wiki/Connecting_to_a_wireless_access_point>
