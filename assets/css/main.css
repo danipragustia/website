@@ -1,9 +1,9 @@
-.post-title {
-	font-weight:bold;
-}
-
 body {
 	padding-bottom:2rem;
+}
+
+.post-title {
+	font-weight:bold;
 }
 
 .list-unstyled {

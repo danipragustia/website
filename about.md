@@ -17,7 +17,6 @@ English isn't my primary language, for mostly time I using Bahasa Indonesia.
 - I enjoy book with genres like <b>science fiction, mystery, history</b>
 
 ### My Computer
-
 I using old computer from 2015, still good for my daily use. All Software i use run smoothly without any problems. I am using <b>Alpine Linux</b> for OS with Windows 10 for sake of gaming, i cant run QEMU cause processor doesnt include with Intergrated Graphic Card.
 - Motherboard is <b>GA-78LMT-S2P</b>, I know this motherboard so bad, will replace soon with Good Motherboard with Support USB3.0 and SATA3
 - Processor is <b>AMD FX-6300</b>, i using this process because it doesnt pre-built with the proprietary PSP (Platform Security Processor) module.
@@ -28,10 +27,11 @@ I using old computer from 2015, still good for my daily use. All Software i use 
 ### Links
 
 [Github](https://github.com/danipragustia)
+
 [Sourcehut](https://git.sr.ht/~danipragustia)
 
 ### Contact
-My public key can find [here](https://dani.pw/pubkey.txt) [old backup](https://meta.sr.ht/~danipragustia.pgp).
+My public key can find [here](https://dani.pw/pubkey.txt) or [mirror](https://meta.sr.ht/~danipragustia.pgp).
 
 **If you have the old one, I dont use it anymore. This is the new one**
 
