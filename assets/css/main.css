@@ -21,3 +21,9 @@ body {
 	background: #d0d0d0;
 	padding:0.5em 2em;
 }
+
+.box-author {
+	background:black;
+	color:white;
+	padding 5px 10px;
+}
