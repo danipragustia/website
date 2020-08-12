@@ -14,9 +14,11 @@ Gem::Specification.new do |spec|
 
   spec.add_runtime_dependency "jekyll", "~> 3.6"
   spec.add_runtime_dependency "jekyll-seo-tag", "~> 2.1"
-
+  
   spec.add_development_dependency "jekyll-feed", "~> 0.9"
+  spec.add_development_dependency "kramdown-parser-gfm", "~> 1.1"
   spec.add_development_dependency "jekyll-paginate", "~> 1.1"
   spec.add_development_dependency "jekyll-redirect-from", "~> 0.12"
   spec.add_development_dependency "bundler", "~> 2.0"
+
 end
