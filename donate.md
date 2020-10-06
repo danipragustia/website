@@ -4,8 +4,6 @@ title: Donate
 permalink: /donate
 ---
 
-# Hire
-
 ## Who I am
 I graduated from Senior High School as Software engineering stuff, I learn many various **web** programming languange back the days like PHP and Javascript.
 

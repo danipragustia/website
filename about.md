@@ -4,8 +4,6 @@ title: About
 permalink: /about
 ---
 
-# About
-
 Hi, My name is Dani Pragustia,
 This blog about things that interest me, most is about software and technology and sometimes mumble about something around the world and myself.
 
