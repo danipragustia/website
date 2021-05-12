@@ -10,12 +10,17 @@ This blog about things that interest me, most is about software and technology a
 English isn't my primary language, for mostly time I using Bahasa Indonesia.
 
 ### Favourites
-- I like almost any kind of game, if that doesnt make me <b>bad mood</b>
-- Mostly my music is <b>classical music</b>, but i like the music if it good at my taste
-- I enjoy book with genres like <b>science fiction, mystery, history</b>
+#### Game
+I like almost any kind of game, if that doesnt make me <b>bad mood</b>. I use my most times to play RPG on back era of PSX, and on that time RPG mostly have TBS and RTS Mechanism game. So my genre transition always lead to <b>Strategy</b> Games.
+
+#### Music
+Mostly my music is <b>classical music</b>, but i like the music if it good at my taste. My taste doesnt have specific type to describe.
+
+#### Books
+I love books so much, they have story to tell for me. Pretty much I read was <b>Sciene</b> Books. Books I read most was like "Did you know?" book, its have format title like "X: Did you this stuff?".
 
 ### My Computer
-I primary use Thinkpad X200, the best laptop ever made, Its durable and compact. Disassembly laptop is very simple and all parts of this machine is user replaceable and cheap (on local market as low as ~50$ including motherboard itself). This laptop still good almost 10 years without any major issue. But there some issue like cpu itself pretty old Core 2 Duo and it struggle to running any video up to 720p (x264 is fine).
+I primary use <b>Thinkpad X200</b>, the best laptop ever made, Its durable and compact. Disassembly laptop is very simple and all parts of this machine is user replaceable and cheap (on local market as low as ~50$ including motherboard itself). This laptop still good almost 10 years without any major issue. But there some issue like cpu itself pretty old Core 2 Duo and it struggle to running any video up to 720p (x264 is fine).
 
 For any heavy computing compiling, I use hourly VPS but this only rarely case.
 
