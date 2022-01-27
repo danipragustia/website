@@ -11,7 +11,7 @@ layout: compress
 <body>
 
   <div class="container mb-3 mt-3">
-    <b class="mb-3"><span class="box-author">{{ site.author | escape }}</span> 's Blog</b>
+    <b class="mb-3"><a class="box-author" href="{{ site.url }}">{{ site.author | escape }}</a> 's Blog</b>
     <div class="row pt-4">
 	  <div class="col-lg-9 text-justify">
 	    {{ content }}
