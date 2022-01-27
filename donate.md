@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Donate
+title: Support
 permalink: /donate
 ---
 
@@ -17,7 +17,7 @@ Price depends how much spend time per day, I recognize myself as people have pas
 ## Terms
 - If the software would be using by many people, program should be included with <b>Source Code</b>.
 
-# Donate
+## Donate
 
 There many way you could contribute:
 - Make review or improve coding from my [repositories](https://github.com/danipragustia?tab=repositories), Im very helping if you do that.
